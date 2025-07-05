@@ -1,6 +1,6 @@
 # 📊 Statistics
 
-Welcome to my **Statistics Learnings** repository!  
+Welcome to my **Statistics** repository!  
 This repo documents my hands-on exploration of statistics — the foundation of data science, machine learning, and analytical decision-making. From basic descriptive stats to inferential techniques, this repository offers intuitive notebooks and practical examples.
 
 ---
